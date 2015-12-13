@@ -1,0 +1,28 @@
+name: feniger
+favicon: null
+layout_spectrum: 0.6483862868044525
+typography_spectrum: 0.9829215086065233
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8980691046454012
+  lightness: 0.45188923785462976
+  saturation: 0.6187970431055874
+  rhythmicContrast: 0.26969393412582576
+purpose: []
